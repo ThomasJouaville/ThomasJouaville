@@ -3,15 +3,17 @@
 
 <p align="left">I work every day with:</p>
 
-<ul style="list-style: none;">
-<li>✅ React</li>
-<li>✅ Typescript</li>
-<li>✅ HTML5 / CSS3 (Bootstrap, Tailwind)</li>
+<ul>
+<li>React</li>
+<li>Typescript</li>
+<li>HTML5 / CSS3 (Bootstrap, Tailwind)</li>
 </ul>
 
-💻 Visual Studio Code
-💻 Azure DevOps
-💻 Windows & Mac
+<ul>
+<li>Visual Studio Code</li>
+<li>Azure DevOps</li>
+<li>Windows & Mac</li>
+</ul>
 
 <p align="left">🌱 Currently, I'm learning to improve my skills in Node.js.</p>
 
