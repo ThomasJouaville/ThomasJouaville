@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left">I work every day with:</p>
+<p align="left">👨‍💻 I work every day with:</p>
 
 <ul>
 <li>React</li>
