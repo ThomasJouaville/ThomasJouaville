@@ -3,7 +3,7 @@
 
 <p align="left">I work every day with:</p>
 
-<ul>
+<ul style="list-style: none;">
 <li>✅ React</li>
 <li>✅ Typescript</li>
 <li>✅ HTML5 / CSS3 (Bootstrap, Tailwind)</li>
